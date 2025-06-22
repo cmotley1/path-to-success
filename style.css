@@ -1,0 +1,378 @@
+/* IMPORTED FONTS */
+
+@import url(https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Kavoon&display=swap);
+
+/* CSS BY NAME */
+
+html{
+    background-color: #6B8FE7;
+}
+
+#wrapper{
+    max-width: 450px;
+    background-color: #484FB7;
+}
+
+h1{
+    font-size: 3em;
+    font-family: Kavoon;
+    text-align: center;
+    
+}
+
+
+h2{
+    font-size: 2em;
+    font-family: "Kavoon", serif;
+    color: #ffffff;
+    margin-left: 10px;
+
+}
+
+h3{
+    font-size: 1.5em;
+    color:#E9BB57;
+    margin-left: 30px;
+}
+
+h4{
+    font-size: 1.15em;
+    color: #484FB7;
+}
+#path{
+    text-align: center;
+    color: #ffffff;
+    height: 150px;
+    padding-top: 30px;
+    margin-bottom: 20px;
+}
+
+#path p{
+    font-style: italic;
+}
+
+#menu{
+    background-color: #E9BB57;
+    height: 200px;
+    text-align: center;
+    color: #000000;
+}
+
+#menu h2{
+    color: #000000;
+    font-family: inherit;
+    font-style: italic;
+}
+
+nav ul li a {
+    height: 1.5em;
+    background-color: #ffffff;
+    text-align: center;
+
+}
+
+ul li{
+    list-style-type: none;
+}
+
+#personal-development{
+    height: 320px;
+    width: 390px;
+    padding: 20px;
+    padding-top: 10px;
+    align-content: center;
+    margin: auto;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    border-radius: 15px;
+    background-color: #ffffff;
+}
+
+#personal-development h4{
+    padding-top: 15px;
+}
+
+#career-coaching{
+    height: 280px;
+    width: 390px;
+    padding: 20px;
+    padding-top: 10px;
+    margin: auto;
+    margin-bottom: 20px;
+    border-radius: 15px;
+    background-color: #ffffff;
+}
+
+#career-coaching h4{
+    padding-top: 15px;
+}
+
+#relationship-coaching{
+    height: 290px;
+    width: 390px;
+    padding: 20px;
+    padding-top: 10px;
+    align-content: center;
+    margin: auto;
+    border-radius: 15px;
+    background-color: #ffffff;
+    margin-bottom: 10px;
+}
+
+#relationship-coaching h4{
+    padding-top: 15px;
+}
+
+#supportive-community{
+    height: 290px;
+    width: 390px;
+    padding: 20px;
+    padding-top: 10px;
+    align-content: center;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+    background-color: #ffffff;
+    
+}
+
+#supportive-community h4{
+    padding-top: 15px;
+}
+
+#focused-sessions{
+    height: 290px;
+    width: 390px;
+    padding: 20px;
+    padding-top: 10px;
+    align-content: center;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+    background-color: #ffffff;
+    
+}
+
+#focused-sessions h4{
+    padding-top: 15px;
+}
+
+#interactive-learning{
+    height: 310px;
+    width: 390px;
+    padding: 20px;
+    padding-top: 10px;
+    align-content: center;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border-radius: 15px;
+    background-color: #ffffff;
+    
+}
+
+#interactive-learning h4{
+    padding-top: 15px;
+}
+
+#flexible-learning{
+    height: 290px;
+    width: 390px;
+    padding: 20px;
+    padding-top: 10px;
+    align-content: center;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 15px;
+    background-color: #ffffff;
+    
+}
+
+#flexible-learning h4{
+    padding-top: 15px;
+}
+
+#why-choose-us{
+background-color: #D9526F;
+height: 320px;
+}
+
+
+#personalized{
+    height: 100px;
+    width: 180px;
+    padding: 20px;
+    padding-top: 10px;
+    align-content: center;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    border-radius: 15px;
+    background-color: #4CA7C0;
+    text-align: center;
+    font-weight: bold;
+    float: left;
+}
+
+#proven{
+    height: 100px;
+    width: 180px;
+    padding: 20px;
+    padding-top: 10px;
+    align-content: center;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    border-radius: 15px;
+    background-color:#6B8FE7;
+    text-align: center;
+    font-weight: bold;
+    float: left;
+}
+
+#supportive{
+    height: 100px;
+    width: 180px;
+    padding: 20px;
+    padding-top: 10px;
+    align-content: center;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    border-radius: 15px;
+    background-color:#E9BB57;
+    text-align: center;
+    font-weight: bold;
+    float: left;
+}
+
+#flexible{
+    height: 100px;
+    width: 180px;
+    padding: 10px;
+    padding-top: 10px;
+    align-content: center;
+    margin: auto;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    border-radius: 15px;
+    background-color:#ffffff;
+    text-align: center;
+    font-weight: bold;
+    float: left;
+}
+
+.table{
+    background-color: #ffffff;
+    border-bottom: 1px solid #E9BB57;
+    border-left: 1px solid #E9BB57;
+    border-right: 1px solid #E9BB57;
+    align-content: center;
+    margin: auto;
+    margin-bottom: 10px;
+    height: 200px;
+    width: 300px;
+    text-align: left;
+    border-collapse: collapse;
+
+
+    
+}
+
+table, th, td{
+    border-color: #E9BB57;
+    border-bottom: 2px solid #E9BB57;
+    border-left: 2px solid #E9BB57;
+    padding-left: 20px;
+
+}
+
+.service-cost{
+    background-color: #E9BB57;
+    text-align: center;
+}
+
+#first-step{
+background-color: #D9526F;
+color: #ffffff;
+padding: 10px;
+}
+
+#button{
+   background-color: #ffffff;
+   padding: 20px;
+   font-weight: bold;
+   border-radius: 12px;
+   box-shadow: 5px 5px 1px 1px;
+   margin-top: 10px;
+   margin-left: 15px;
+   width: 400px;
+   font-size: 16px;
+    
+}
+
+footer{
+    color:#ffffff;
+    height: 70px;
+    padding-inline: 80px;
+    margin-top: 40px;
+    font-size: 12px;
+}
+
+footer p{
+    float: left;
+}
+
+footer a{
+    float: right;
+    color: #000000;
+    
+}
+
+
+/* CSS RESET */
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+    
+}
+
+html, body {
+    height: 100%;
+    color:#000000;
+    background: #ffffff;
+    line-height: 1.5;
+}
+
+
+/* ROOT VARIABLES */
+
+:root {
+--Teal :#4CA7C0;
+--Purple: #484FB7;
+--Lavender: #6B8FE7;
+--Yellow: #E9BB57; 
+--Pink:#D9526F;
+--Dark-gray:#1E1E1E; 
+--White:#ffffff; 
+}
+
+/* GLOBAL STYLES (mobile first/small) */
+
+@media only screen and (max-width: 450px) {
+ body{
+    background-color: #484FB7;
+}
+}
+
+
